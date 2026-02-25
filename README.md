@@ -1,52 +1,74 @@
-<h1 align="center">Hi 👋, I'm Arifur Jaman</h1>
-<h3 align="center">A passionate developer and tech enthusiast from Bangladesh 🇧🇩</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Welcome%20to%20My%20Profile!&fontSize=50&animation=twinkling&fontAlignY=38&desc=Student%20|%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&descAlign=55"/>
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Python+Developer;Telegram+Bot+Creator;Exploring+Cyber+Security;Learning+Game+Development" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/7o1x/7o1x/main/assets/coding.gif" width="200" alt="Coding Animation" />
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Python+Developer;Building+Telegram+Bots;Developing+Offline+AI;Exploring+Cyber+Security" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Python, Telegram Bots, and Web Development**.
-- 🌱 I’m currently learning **Game Development and Cyber Security tools**.
-- 🤖 Exploring the world of **Offline AI Assistants and Automation**.
-- 💻 I love building projects and running scripts using **Linux & Termux**.
-- 🎓 I'm a student continuously learning and exploring new technologies.
-- 📫 How to reach me: Drop a message on Telegram **[@Arifur905](https://t.me/Arifur905)**.
+- 🔭 **Currently working on:** Python scripts, Web Development, and AI Automation.
+- 🌱 **Currently learning:** Game Development and Cyber Security tools.
+- 🎨 **Creative side:** Customizing images, logos, and UI designs.
+- ⚡ **Fun facts:** I love experimenting with electronics and finding passive income methods.
+- 💻 **Workspace:** Building projects on PC and testing automation using **Termux** on Android.
 
 <br/>
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,firebase,linux,bash,github" alt="Arifur's Skills" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,firebase,linux,bash,github,android&perline=9" alt="Skills" />
   </a>
 </p>
 
 <br/>
 
-## 📊 GitHub Stats
+## 🏆 GitHub Trophies & Stats
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=biplobc384-dotcom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=biplobc384-dotcom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biplobc384-dotcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-## 🌐 Connect with Me & My Community
+## 🐍 Contribution Snake Animation
 
-Join my community to discuss tech, hacking-related topics, and development:
-- 🚀 **Telegram Group/Channel:** [[Arifur Hackworld](https://t.me/ArifurHackworld)](https://t.me/Arifur905) *(Replace link with your actual group link)*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biplobc384-dotcom/biplobc384-dotcom/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biplobc384-dotcom/biplobc384-dotcom/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/biplobc384-dotcom/biplobc384-dotcom/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://t.me/Arifur905" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=biplobc384-dotcom&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=biplobc384-dotcom&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
